@@ -5,5 +5,3 @@ This repository contains a snapshot of **Promise Development's Freestyle Footbal
 The files are preserved as they appeared at the time of the dump for reference, research, and archival purposes.
 
 `Dumper.luau` is the script used to capture this snapshot.
-
-This repository also serves as a personal backup before reinstalling Windows.
