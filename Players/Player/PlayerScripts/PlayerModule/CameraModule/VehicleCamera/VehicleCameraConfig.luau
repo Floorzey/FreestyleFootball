@@ -1,0 +1,26 @@
+--[[
+    Script Path: Game/Players/Player/PlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraConfig
+    Class: ModuleScript
+    Time: 2026-10-03 12:27:03
+--]]
+
+return {
+    cutoffMinAngularVelYaw = 60,
+    cutoffMaxAngularVelPitch = 60,
+    autocorrectMaxCarSpeed = 32,
+    pitchDeadzoneAngle = 12,
+    cutoffMaxAngularVelYaw = 180,
+    yawStiffness = 2.5,
+    cutoffMinAngularVelPitch = 15,
+    autocorrectDelay = 1,
+    pitchStiffness = 0.5,
+    verticalCenterOffset = 0.33,
+    yawResponseDampingFalling = 3,
+    pitchResponseDampingFalling = 3,
+    pitchReponseDampingRising = 1,
+    yawReponseDampingRising = 1,
+    firstPersonResponseMul = 10,
+    pitchBaseAngle = 18,
+    autocorrectResponse = 0.5,
+    autocorrectMinCarSpeed = 16
+}
