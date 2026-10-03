@@ -5,3 +5,5 @@ This repository contains a snapshot of the Freestyle Football client, captured u
 The files are preserved as they appeared at the time of the dump for reference, research, and archival purposes.
 
 ```Dumper.luau``` is the script that was used to capture this snapshot.
+
+(Im doing this because I am going to reinstall my windows and want to save this)
