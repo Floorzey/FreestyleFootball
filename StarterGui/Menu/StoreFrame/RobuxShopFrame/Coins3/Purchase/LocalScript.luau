@@ -1,0 +1,22 @@
+--[[
+    Script Path: Game/StarterGui/Menu/StoreFrame/RobuxShopFrame/Coins3/Purchase/LocalScript
+    Class: LocalScript
+    Time: 2026-10-03 12:27:08
+--]]
+
+function updatePrice()
+    --[[
+      name: updatePrice
+      line: 1
+    ]]
+    script.Parent.Text = "BUY - R$" .. game:GetService("MarketplaceService"):GetProductInfo(script:GetAttribute("ProductInfo"), Enum.InfoType.Product).PriceInRobux
+end
+updatePrice()
+script.Parent.Parent.Parent.Parent.GiftRecipient.Changed:Connect(
+    function()
+        --[[
+          line: 9
+        ]]
+        updatePrice()
+    end
+)
