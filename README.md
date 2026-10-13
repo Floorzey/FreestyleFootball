@@ -4,6 +4,8 @@ This repository contains a snapshot of **Promise Development’s Freestyle Footb
 
 The original dump is preserved for reference, research, and archival purposes. `dumper.luau` is the script used to capture the snapshot.
 
+> This release will remain untouched.
+
 ## Cleaned Source
 
 The `/Cleaned src` directory contains a cleaned, more readable version of the decompiled client code.
