@@ -1,0 +1,39 @@
+local i_dlist = {}
+i_dlist.Air = { id = "rbxassetid://329997777", speed = 1, volume = 0 }
+i_dlist.Asphalt = { id = "rbxassetid://277067660", speed = 1, volume = 0.6 }
+i_dlist.Basalt = { id = "rbxassetid://3190903775", speed = 1, volume = 0.6 }
+i_dlist.Brick = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Cobblestone = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Concrete = { id = "rbxassetid://277067660", speed = 1, volume = 0.6 }
+i_dlist.CorrodedMetal = { id = "rbxassetid://177940974", speed = 1, volume = 0.6 }
+i_dlist.CrackedLava = { id = "rbxassetid://3190903775", speed = 1, volume = 0.6 }
+i_dlist.DiamondPlate = { id = "rbxassetid://177940974", speed = 1, volume = 0.6 }
+i_dlist.Fabric = { id = "rbxassetid://9083849830", speed = 1, volume = 0.4 }
+i_dlist.Foil = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Forcefield = { id = "rbxassetid://329997777", speed = 1, volume = 0.6 }
+i_dlist.Glass = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Granite = { id = "rbxassetid://178054124", speed = 1, volume = 0.6 }
+i_dlist.Grass = { id = "rbxassetid://177940963", speed = 1, volume = 0.5 }
+i_dlist.Glacier = { id = "rbxassetid://7047108275", speed = 1, volume = 0.4 }
+i_dlist.Ground = { id = "rbxassetid://9064714296", speed = 1, volume = 0.6 }
+i_dlist.Ice = { id = "rbxassetid://7047108275", speed = 1, volume = 0.4 }
+i_dlist.Limestone = { id = "rbxassetid://9083846829", speed = 1, volume = 0.6 }
+i_dlist.LeafyGrass = { id = "rbxassetid://3098847639", speed = 1, volume = 0.6 }
+i_dlist.Marble = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Metal = { id = "rbxassetid://177940974", speed = 1, volume = 0.6 }
+i_dlist.Mud = { id = "rbxassetid://6441160246", speed = 1, volume = 0.6 }
+i_dlist.Neon = { id = "rbxassetid://177940974", speed = 1, volume = 0.6 }
+i_dlist.Pebble = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Plastic = { id = "rbxassetid://177940963", speed = 1, volume = 0.5 }
+i_dlist.Pavement = { id = "rbxassetid://277067660", speed = 1, volume = 0.6 }
+i_dlist.Rock = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Sand = { id = "rbxassetid://9083846829", speed = 1, volume = 0.4 }
+i_dlist.Slate = { id = "rbxassetid://178054124", speed = 1, volume = 0.6 }
+i_dlist.Snow = { id = "rbxassetid://8453425942", speed = 1, volume = 0.6 }
+i_dlist.Salt = { id = "rbxassetid://9083846829", speed = 1, volume = 0.4 }
+i_dlist.Sandstone = { id = "rbxassetid://3190903775", speed = 0.75, volume = 0.6 }
+i_dlist.SmoothPlastic = { id = "rbxassetid://178190837", speed = 1, volume = 0.6 }
+i_dlist.Wood = { id = "rbxassetid://3199270096", speed = 1, volume = 0.6 }
+i_dlist.WoodPlanks = { id = "rbxassetid://211987063", speed = 1, volume = 0.6 }
+
+return i_dlist
