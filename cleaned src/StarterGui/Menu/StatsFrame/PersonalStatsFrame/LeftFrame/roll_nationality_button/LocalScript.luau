@@ -1,0 +1,6 @@
+local knit = require(game:GetService("ReplicatedStorage").Packages.Knit)
+knit.OnStart():await()
+local remote_event = knit.GetService("KeyHandlerService"):GetKey("RollNationality")
+script.Parent.MouseButton1Click:Connect(function()
+    remote_event:FireServer()
+end)
