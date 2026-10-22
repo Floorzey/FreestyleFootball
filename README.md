@@ -4,7 +4,7 @@ This repository contains snapshots of different **Promise Development’s Freest
 
 The original dump is preserved in [`11V11 Oct 3, 2026, unedited`](11V11%20Oct%203%2C%202026%2C%20unedited/) for reference, research, and archival purposes. `dumper.luau` is the script used to capture the snapshot.
 
-> This release will remain untouched.
+> !!!
 
 ## Cleaned Source
 
@@ -12,12 +12,6 @@ Cleaned Sources are files that preserve the exact behavior of the original, unmo
 
 > This release will remain mostly untouched.
 
-## Release Status
-
-- **Finished:** October 12, 2026
-- **Released:** October 13, 2026
-
-> Once a release is out, it will remain untouched.
 
 ## TESTER CODE.
 
