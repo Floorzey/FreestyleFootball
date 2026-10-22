@@ -1,6 +1,6 @@
 # Freestyle Football Client
 
-This repository contains a snapshot of **Promise Development’s Freestyle Football** client, captured using **Volt Executor** on **October 3, 2026**.
+This repository contains snapshots of different **Promise Development’s Freestyle Football** clients, captured using **Volt Executor** on **DIfferent dates**. (shall be specified in release names)
 
 The original dump is preserved in [`11V11 Oct 3, 2026, unedited`](11V11%20Oct%203%2C%202026%2C%20unedited/) for reference, research, and archival purposes. `dumper.luau` is the script used to capture the snapshot.
 
