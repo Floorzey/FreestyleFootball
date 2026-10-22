@@ -1,5 +1,4 @@
---Dumper used to carry out all these dumps
-
+-- This is the dumper used to collect all of these games, however, the src's are cleaned and much better quality than this dumper produces. Do not expect alike quality results
 local targetfolder = game
 local hideidentity = true
 local anonymousname = "Player"
