@@ -18,4 +18,9 @@ The cleanup keeps the original code, along with the behavior in the decompilatio
 - **Finished:** October 12, 2026
 - **Released:** October 13, 2026
 
-> This release will remain untouched.
+> Once a release is out, it will remain untouched.
+
+# TESTER CODE.
+
+Today, October 1st, 2026, Rady released a tester version of freestyle football. This version is incomplete but gives lots of insight into what will be new next update.
+This code has been cleaned and ONLY the cleaned version will release.
