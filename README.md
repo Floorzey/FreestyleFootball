@@ -12,6 +12,7 @@ The `/Cleaned src` directory contains a cleaned, more readable version of the de
 
 The cleanup keeps the original code, along with the behavior in the decompilation.
 
+> This release will remain mostly untouched.
 
 ## Release Status
 
@@ -24,3 +25,5 @@ The cleanup keeps the original code, along with the behavior in the decompilatio
 
 Today, October 1st, 2026, Rady released a tester version of freestyle football. This version is incomplete but gives lots of insight into what will be new next update.
 This code has been cleaned and ONLY the cleaned version will release.
+
+> This release will likely be tampered with a bit. Logic will stay true though.
