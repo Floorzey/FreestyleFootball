@@ -1,3 +1,5 @@
+--Dumper used to carry out all these dumps
+
 local targetfolder = game
 local hideidentity = true
 local anonymousname = "Player"
