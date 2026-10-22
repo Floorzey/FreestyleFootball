@@ -8,9 +8,7 @@ The original dump is preserved in [`11V11 Oct 3, 2026, unedited`](11V11%20Oct%20
 
 ## Cleaned Source
 
-The [`11V11 Oct 3, 2026, Cleaned`](11V11%20Oct%203%2C%202026%2C%20Cleaned/) directory contains a cleaned, more readable version of the decompiled client code.
-
-The cleanup keeps the original code, along with the behavior in the decompilation.
+Cleaned Sources are files that preserve the exact behavior of the original, unmodified dumps but have been refined to make the code more readable and understandable to the average person. Code quality, formatting, and overall clarity have been improved. However, the underlying logic and functionality always remain completely unchanged.
 
 > This release will remain mostly untouched.
 
